@@ -188,11 +188,12 @@ Then, you have 2 different types of running the proyect:
 * Link GitHub repository with Azure. 
 * Check the best practices for editing GitHub workflows.
 * Personal Access Token (PAT) improved security. [PAT Security](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens)
-* Artifacts.
+* Terraform modules implementation.
 
-Optional:
+Optional/Far future:
 * Creating a custom runner to run the pipelines.
 * Azure Bicep.
+* Artifacts.
 
 
 This repository has used [github actions course](https://github.com/HoussemDellai/github-actions-course) repository as reference from Houssem Dellai. 
